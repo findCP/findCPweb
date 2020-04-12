@@ -29,7 +29,7 @@ Go to http://127.0.0.1:8000/app/
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/findCP/findCP/issues/new) or submit PRs.
+Feel free to dive in! [Open an issue](https://github.com/findCP/findCPweb/issues/new) or submit PRs.
 
 Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
