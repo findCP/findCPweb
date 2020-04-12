@@ -117,7 +117,7 @@
 				contentType: false,
 		 		processData: false,
 				success: function (data) {
-			  		alert("SUCCESS channel sent");
+			  		//alert("SUCCESS channel sent");
 				},
 				error: function (xhr,errmsg,err) {
 					alert(xhr.status + ": " + xhr.responseText + ": " + err);

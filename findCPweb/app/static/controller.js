@@ -88,7 +88,7 @@
 
 	Controller.prototype.runWork = async function (task) {
 		var self = this;
-alert(task);
+//alert(task);
 		self.view.render("desactiveCancelWork");
 		if(task=="SPREAD"){
 			self.view.render("setWorking", "<b>Task:</b> Generating spreadhseet file with results");
