@@ -2,7 +2,7 @@ Django==2.2.10
 django-cors-headers==3.0.2
 asgi-redis==1.0.0
 daphne
-celery==4.0.2
+celery==5.2.2
 channels
 redis==2.10.5
 channels_redis
